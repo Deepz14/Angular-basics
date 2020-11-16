@@ -1,0 +1,12 @@
+.container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.appBtn{
+    padding : 10px 15px;
+    background-color: blue;
+    color: white;
+}

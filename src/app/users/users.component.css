@@ -1,0 +1,14 @@
+.tableContainer{
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.even{
+    background-color: gray;
+    color: white;
+    cursor: pointer;
+}
+.odd{
+    cursor: pointer;
+}
